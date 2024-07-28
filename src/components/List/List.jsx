@@ -1,6 +1,6 @@
 import React, { createRef, useEffect, useState } from "react";
 
-import useStyles from "./styles";
+import { useStyles } from "./styles.js";
 import {
   CircularProgress,
   FormControl,

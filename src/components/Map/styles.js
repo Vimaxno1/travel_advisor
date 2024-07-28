@@ -1,6 +1,6 @@
 import { makeStyles } from "@mui/styles";
 
-export default makeStyles(() => ({
+export const useStyles = makeStyles(() => ({
   paper: {
     padding: "10px",
     display: "flex",

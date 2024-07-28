@@ -1,6 +1,6 @@
 import { makeStyles } from "@mui/styles";
 
-export default makeStyles(() => ({
+export const useStyles= makeStyles(() => ({
   chip: {
     margin: "5px 5px 5px 0",
   },

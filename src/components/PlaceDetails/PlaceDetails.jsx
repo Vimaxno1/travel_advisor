@@ -1,6 +1,6 @@
 import React from "react";
 
-import useStyles from "./styles";
+import { useStyles } from "./styles.js";
 import {
   Box,
   Button,
